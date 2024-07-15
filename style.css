@@ -1,0 +1,10 @@
+@import url("./style/global/componentes.css");
+@import url("./style/global/global.css");
+
+/*Utilidades*/
+@import url("./style/utilidades/cores.css");
+@import url("./style/utilidades/tipografia.css");
+
+/*Início*/
+@import url("/style/inicio/perfil.css");
+@import url("/style/inicio/rodape.css");

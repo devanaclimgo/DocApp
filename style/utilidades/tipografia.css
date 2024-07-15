@@ -1,0 +1,27 @@
+.font-22-b {
+  font: 700 1.9375rem var(--fonte-principal), sans-serif;
+}
+
+.font-18-r {
+  font: 400 1.125rem var(--fonte-principal), sans-serif;
+}
+
+.font-18-b {
+  font: 700 1.125rem var(--fonte-principal), sans-serif;
+}
+
+.font-12-r {
+  font: 400 0.75rem var(--fonte-principal), sans-serif;
+}
+
+.font-12-m {
+  font: 600 0.75rem var(--fonte-principal), sans-serif;
+}
+
+.font-16-rm {
+  font: 500 1rem var(--fonte-principal), sans-serif;
+}
+
+.font-14-b {
+  font: 700 0.87rem var(--fonte-principal), sans-serif;
+}

@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --c1: #f6f6f6;
+  --fonte-principal: "Montserrat", sans-serif;
+  --preto: #464646;
+  --c2: #a3a3a3;
+  --w: #ffff;
+  --p1: #ffb050;
+  --p2: #4894ff;
+  --c3: #ececec;
+}
+
+body {
+  font-family: var(--fonte-principal);
+  background-color: var(--c1);
+}
+
+.container img[src$=".jpg"] {
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.perfil img[src$=".jpg"] {
+  width: 5rem;
+  height: auto;
+  border-radius: 50%;
+}
