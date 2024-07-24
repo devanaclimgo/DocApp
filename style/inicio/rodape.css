@@ -1,0 +1,23 @@
+.rodape {
+  background: var(--w);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  box-shadow: 0 7px 2px rgba(70, 70, 70, 0.2);
+}
+
+nav ul {
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+}
+
+.rodape li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

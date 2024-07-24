@@ -14,9 +14,18 @@
   --c3: #ececec;
 }
 
+html {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
 body {
   font-family: var(--fonte-principal);
   background-color: var(--c1);
+}
+
+ul {
+  list-style-type: none;
 }
 
 .container img[src$=".jpg"] {
@@ -29,4 +38,9 @@ body {
   width: 5rem;
   height: auto;
   border-radius: 50%;
+}
+
+li img[src$=".svg"] {
+  width: 20px;
+  height: 14px;
 }

@@ -79,8 +79,7 @@ body {
 }
 
 .container__botao a *:not(.container__botao__loc) {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
   justify-content: center;
   text-align: center;
 }
