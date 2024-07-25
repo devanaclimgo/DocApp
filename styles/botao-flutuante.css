@@ -83,7 +83,6 @@ button .botao__flutuante-cadastro span{
 
 button.botao__flutuante-item{
   display: flex;
-
   width: 56px;
   height: 56px;
   border-radius: 50%;

@@ -1,5 +1,6 @@
 @import url("./style/global/componentes.css");
 @import url("./style/global/global.css");
+@import url("/style/global/botao-flutuante.css");
 
 /*Utilidades*/
 @import url("./style/utilidades/cores.css");
