@@ -16,29 +16,13 @@ button .botao__flutuante-cadastro span {
   position: absolute;
   width: 16px;
   height: 16px;
-  background-image: url("../../img/maisicone2.png");
+  background-image: url("../../img/maisicone.png");
   background-position: center;
   background-repeat: no-repeat;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 2;
-}
-
-.btn-primario {
-  border: none;
-  background: var(--p2);
-  color: var(--w);
-}
-.btn-secundario {
-  border: none;
-  background: var(--p1);
-  color: var(--w);
-}
-
-.btn-terciario {
-  background: var(--w);
-  border: 1px solid var(--c3);
 }
 
 .botao__flutuante ul {
