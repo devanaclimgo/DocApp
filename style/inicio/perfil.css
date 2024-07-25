@@ -2,6 +2,10 @@ body {
   margin: 3rem;
 }
 
+main {
+  padding: 2rem;
+}
+
 .perfil {
   display: flex;
   margin: 2rem 1rem;
